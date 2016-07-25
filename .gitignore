@@ -13,3 +13,6 @@ hs_err_pid*
 
 # NetBeans local files
 nbproject/private/
+.idea/
+test/
+textlog.iml
